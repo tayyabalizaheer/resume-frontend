@@ -1,0 +1,312 @@
+{
+    "success": true,
+    "data": {
+        "setting": {
+            "about": "As a Software Engineer I have 5-year hand on experience in front end and Backend development. Experienced with many projects like Property listing, Online Auction solution, E-commerce (B2b B2c C2C), CRM, Mobile repairing, School management, POS, Course Scheduling, Quiz game, Real estate Management. Well-versed in numerous programming languages including HTML5, PHP OOP and its framework (Laravel, CodeIgniter), Node JS, Express, React JS, JavaScript and its library, CSS, MySQL., SQL, Mongo dB, Firebase.",
+            "name": "Engr. Tayyab Ali",
+            "career_title": "Software Engineer",
+            "address": "Dubai",
+            "email": "tayyabalizaheer@gmail.com",
+            "phone": "+971 56 1902113",
+            "experience": "5",
+            "cv": "pWNlkwWnCimvL7QXJMYn.png",
+            "profile": "B5Lgy0qiKlKIDRgRrf1N.png",
+            "nationality": "Pakistan",
+            "languages": "English, Urdu, Hindi"
+        },
+        "abilities": [
+            {
+                "order": 0,
+                "_id": "63ac088f439caaed481a8f79",
+                "title": "Php",
+                "description": "As a PHP developer I'm responsible for writing server-side web application logic. I can develop back-end components, connect the application with the other (often third-party) web services. I have strong knowledge of PHP web frameworks. ",
+                "status": true,
+                "date": "2022-12-28T09:12:47.673Z",
+                "__v": 0,
+                "image": "b88yRipjmricZCiDSEor.png"
+            },
+            {
+                "order": 0,
+                "_id": "63ac0bf6bf8376b3be61c83f",
+                "title": "Laravel",
+                "description": "As a Laravel developer I build web applications, design and create projects using Laravel framework and PHP, and I can assist the team in delivering high-quality web applications, services, and business tools.",
+                "status": true,
+                "date": "2022-12-28T09:27:18.446Z",
+                "__v": 0,
+                "image": "ioYN6hxDSIKYCIDDHjoL.png"
+            },
+            {
+                "order": 0,
+                "_id": "63ac2b640120e5cc31d97083",
+                "title": "Node js",
+                "description": "As a Node.js developers I deploy and maintain network applications. I can manage the exchange of data between servers and users, develop back-end components, and connect applications with other web services. I can also support front-end developers by integrating web-based applications. ",
+                "status": true,
+                "date": "2022-12-28T11:41:24.178Z",
+                "__v": 0,
+                "image": "zvhVNmfhbS8RjN2o1Fr2.png"
+            },
+            {
+                "_id": "63c6a090f9360b31eb5a41e0",
+                "title": "Reat Js",
+                "image": "oQykr8ASZjK13Si6feR2.png",
+                "description": "As a React.js developers I can design and implement user interface components for JavaScript-based web and mobile applications using the React open-source library ecosystem. I' m a skilled front-end developer which can involved in all stages of interface component design, from conception through to final testing. ",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-17T13:20:16.379Z",
+                "__v": 0
+            }
+        ],
+        "education": [
+            {
+                "order": 0,
+                "_id": "63ac2f7ef9837d3e6edc3075",
+                "title": "BS (hons). Software Engineering ",
+                "description": "sadas    asdas",
+                "year": "2014",
+                "institute": "Mirpur University of Science and Technology",
+                "status": true,
+                "date": "2022-12-28T11:58:54.737Z",
+                "__v": 0
+            },
+            {
+                "order": 0,
+                "_id": "63ac3117f520f1e851b6a276",
+                "title": "Cumque veritatis ita a",
+                "description": "Dolorem rerum amet a",
+                "year": "1987",
+                "institute": "Minima voluptas expeea",
+                "status": true,
+                "date": "2022-12-28T12:05:43.696Z",
+                "__v": 0
+            }
+        ],
+        "skills": [
+            {
+                "order": 0,
+                "_id": "63ac2881447c1c8ae9634ff9",
+                "title": "PHP",
+                "status": true,
+                "date": "2022-12-28T11:29:05.149Z",
+                "__v": 0,
+                "percentage": 95
+            },
+            {
+                "order": 0,
+                "_id": "63ac2c3e648ece9a358975b9",
+                "title": "Node Js",
+                "status": true,
+                "date": "2022-12-28T11:45:02.233Z",
+                "__v": 0,
+                "percentage": 90
+            },
+            {
+                "_id": "63c4f0b86b46009c66162080",
+                "title": "Laravel",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:37:44.391Z",
+                "__v": 0,
+                "percentage": 95
+            },
+            {
+                "_id": "63c4f0be6b46009c66162087",
+                "title": "CodeIgniter ",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:37:50.868Z",
+                "__v": 0,
+                "percentage": 90
+            },
+            {
+                "_id": "63c4f0d36b46009c6616208e",
+                "title": "React.js",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:38:11.976Z",
+                "__v": 0,
+                "percentage": 92
+            },
+            {
+                "_id": "63c4f0e56b46009c66162091",
+                "title": "jQuery",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:38:29.921Z",
+                "__v": 0,
+                "percentage": 93
+            },
+            {
+                "_id": "63c4f0f06b46009c66162094",
+                "title": "Ajax Technique",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:38:40.878Z",
+                "__v": 0,
+                "percentage": 95
+            },
+            {
+                "_id": "63c4f0fa935c126a526847b8",
+                "title": "Java Script ES6, ES7",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:38:50.077Z",
+                "__v": 0,
+                "percentage": 89
+            },
+            {
+                "_id": "63c4f10e935c126a526847bb",
+                "title": "HTML 5",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:39:10.176Z",
+                "__v": 0,
+                "percentage": 97
+            },
+            {
+                "_id": "63c4f17577d9349f1701d8cb",
+                "title": "Bootstrap",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:40:53.411Z",
+                "__v": 0,
+                "percentage": 96
+            },
+            {
+                "_id": "63c4f18077d9349f1701d8ce",
+                "title": "Postman",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:41:04.905Z",
+                "__v": 0,
+                "percentage": 94
+            },
+            {
+                "_id": "63c4f19477d9349f1701d8d1",
+                "title": "CI/CD (Jenkins)",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:41:24.423Z",
+                "__v": 0,
+                "percentage": 80
+            },
+            {
+                "_id": "63c4f19e77d9349f1701d8d4",
+                "title": "AWS, Google VPS",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:41:34.408Z",
+                "__v": 0,
+                "percentage": 85
+            },
+            {
+                "_id": "63c4f1ab4499db8bf89b1277",
+                "title": "Rest Apis",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:41:47.195Z",
+                "__v": 0,
+                "percentage": 94
+            },
+            {
+                "_id": "63c4f1d34499db8bf89b127a",
+                "title": "GraphQL Apis",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:42:27.058Z",
+                "__v": 0,
+                "percentage": 70
+            },
+            {
+                "_id": "63c4f1e21a592678eb6f630d",
+                "title": "Node JS, Express, EJS Template",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:42:42.130Z",
+                "__v": 0,
+                "percentage": 85
+            },
+            {
+                "_id": "63c4f1ed1a592678eb6f6314",
+                "title": "SQL, MySQL, Firebase, Mongo DB",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:42:53.740Z",
+                "__v": 0,
+                "percentage": 90
+            },
+            {
+                "_id": "63c4f242aca75ae70234953c",
+                "title": "Mongoose ODM",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:44:18.011Z",
+                "__v": 0,
+                "percentage": 85
+            },
+            {
+                "_id": "63c4f2d2228e0d7a2e8e3236",
+                "title": "Database management",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:46:42.779Z",
+                "__v": 0,
+                "percentage": 92
+            },
+            {
+                "_id": "63c4f2e0228e0d7a2e8e323d",
+                "title": "Third Party APIs and library Integration",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:46:56.572Z",
+                "__v": 0,
+                "percentage": 95
+            },
+            {
+                "_id": "63c4f2e9228e0d7a2e8e3240",
+                "title": "Project management",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-16T06:47:05.269Z",
+                "__v": 0,
+                "percentage": 91
+            }
+        ],
+        "experience": [
+            {
+                "_id": "63ad8281c652091bf9083cf6",
+                "title": "Sint id fugit duis",
+                "description": "Cillum et quae deser",
+                "year": "1977",
+                "company": "Stafford and Mcintyre Traders",
+                "order": 0,
+                "status": true,
+                "date": "2022-12-29T12:05:21.656Z",
+                "__v": 0
+            }
+        ],
+        "certifications": [
+            {
+                "_id": "63ad3d827667d085719ee503",
+                "title": "Consequat In sint is",
+                "description": "Et magnam ut rem cons",
+                "year": "1973s",
+                "institute": "Dolores voluptas mins",
+                "order": 0,
+                "status": true,
+                "date": "2022-12-29T07:10:58.930Z",
+                "__v": 0
+            },
+            {
+                "_id": "63ad3d9a7667d085719ee50c",
+                "title": "Esse nulla commodi ea",
+                "description": "Ad vel quam excepteua",
+                "year": "1997a",
+                "institute": "Vel eos ducimus alia",
+                "order": 0,
+                "status": false,
+                "date": "2022-12-29T07:11:22.282Z",
+                "__v": 0
+            }
+        ]
+    }
+}
