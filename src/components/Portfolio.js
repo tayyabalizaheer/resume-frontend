@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 import { asset } from '../Helper';
 export default function Portfolio(props) {
   var data = props.data; 
@@ -25,10 +26,10 @@ export default function Portfolio(props) {
                                                               src={asset(e.thumbnail ?? "")}
                                                               className="attachment-portfolio-image-three-c size-portfolio-image-three-c wp-post-image"
                                                               alt={e.title} loading="lazy" />
-                                                          <a href="" className="ajax-page-load"></a>
+                                                          <Link to={`/project/${e._id}`} href="" className="ajax-page-load"></Link>
                                                           <div className="portfolio-preview-desc">
                                                               <div className="portfolio-preview-desc-inner">
-                                                                  <h5 className="view-more btn btn-outline-dark">View more</h5>
+                                                                <h5 className="view-more btn btn-outline-dark">View more</h5>
                                                               </div>
                                                           </div>
                                                           <h4 className="name">{e.title}</h4>

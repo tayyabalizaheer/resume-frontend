@@ -9,7 +9,7 @@
             "email": "tayyabalizaheer@gmail.com",
             "phone": "+971 56 1902113",
             "experience": "5",
-            "cv": "pWNlkwWnCimvL7QXJMYn.png",
+            "cv": "5FRpnRLfigGqrhy7fwFp.pdf",
             "profile": "B5Lgy0qiKlKIDRgRrf1N.png",
             "nationality": "Pakistan",
             "languages": "English, Urdu, Hindi"
@@ -61,22 +61,11 @@
                 "order": 0,
                 "_id": "63ac2f7ef9837d3e6edc3075",
                 "title": "BS (hons). Software Engineering ",
-                "description": "sadas    asdas",
+                "description": "As a software engineer i'm professional in designing, developing, testing, and maintaining the software systems. I'm responsible for creating efficient and reliable computer programs, applications, and operating systems that are used in a variety of industries, including healthcare, finance, transportation, and entertainment.\r\n\r\nAs a Software engineers I uses many programming languages like PHP, Laravel Framework, Node JS, React JS, Vue JS, HTML as well as tools like integrated development environments (IDEs) and version control systems to create software that meets the needs of users and businesses.",
                 "year": "2014",
                 "institute": "Mirpur University of Science and Technology",
                 "status": true,
                 "date": "2022-12-28T11:58:54.737Z",
-                "__v": 0
-            },
-            {
-                "order": 0,
-                "_id": "63ac3117f520f1e851b6a276",
-                "title": "Cumque veritatis ita a",
-                "description": "Dolorem rerum amet a",
-                "year": "1987",
-                "institute": "Minima voluptas expeea",
-                "status": true,
-                "date": "2022-12-28T12:05:43.696Z",
                 "__v": 0
             }
         ],
@@ -274,23 +263,125 @@
         "experience": [
             {
                 "_id": "63ad8281c652091bf9083cf6",
-                "title": "Sint id fugit duis",
-                "description": "Cillum et quae deser",
-                "year": "1977",
-                "company": "Stafford and Mcintyre Traders",
+                "title": "Full Stack Web Developer",
+                "description": "•\tDeveloped CRM, Property Listing portals, Online Auction Software using tech stack of Laravel MVC Framework, PHP, Git, JQuery, Ajax, Bootstrap, React Js,\r\n\r\n•\tGit: Github, Gitlab, Create Pull Request, Review PR,  \r\n\r\n•\tPayment Gateway integration: Noqodi, n-genius (Network Payment Gateway). \r\n\r\n•\tCross-platform integration with RESTFUL API.\r\n\r\n•\tDevelop Website Design and Real Estate Blogs \r\n\r\n•\tMobile Apps APIs Deployment on Live Server with AWS / Cpanel Work with Mobile App Developers and create Postman Collections\r\n",
+                "year": "2022 ",
+                "company": "ATF Real Estate Valuation",
                 "order": 0,
                 "status": true,
                 "date": "2022-12-29T12:05:21.656Z",
+                "__v": 0
+            },
+            {
+                "_id": "63cfa5d47ab13ac9e2a6e03d",
+                "title": "Sr. Web Developer and Tech. Team Lead ",
+                "description": "•\tDevelop project concepts and maintain optimal workflow.\r\n•\tWork with other developer to manage large, complex design projects for corporate clients.\r\n•\tComplete detailed programming and development tasks for front end public and internal websites as well as challenging back-end server code and Rest APIs Development.\r\n•\tManage a team of fresh graduates, task assignment and report collection.\r\n•\tCarry out quality assurance tests to discover errors and optimize usability.",
+                "year": "Oct 2020 to Jan 2022",
+                "company": "Funtash Technology subsidiary of Grape Technology",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-24T09:33:08.769Z",
+                "__v": 0
+            },
+            {
+                "_id": "63cfa5f213497c532376f6c0",
+                "title": "Web Developer ",
+                "description": "•\tWork with senior developer to develop food ordering system that is sub system of EPOS.\r\n•\tDevelop and manage customer end Web application.\r\n•\tModify the current system according to Customer need and requirements.\r\n•\tHandle Web server (Plesk) and VPS management deploying MS SQL server on it for Web and desktop application databases.\r\n•\tCooperate with designers to create clean interfaces and simple, intuitive interactions and experiences that is according to client requirements.",
+                "year": "Aug 2019 to Sep 2020",
+                "company": "MA Business Hub",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-24T09:33:38.238Z",
+                "__v": 0
+            }
+        ],
+        "projects": [
+            {
+                "_id": "63c7afd4c48080ca5ebd9b46",
+                "title": "Online Auction",
+                "thumbnail": "ToiU1VdrSu78uJqYA3d4.jpeg",
+                "description": "Auction gives you an opportunity to invest in exclusive and rare properties. It also guides you to buy properties safely and securely !Thinking about what? register yourself as an investor today.",
+                "link": "https://amlakauction.ae/",
+                "region": "UAE",
+                "technology": "Laravel, My Sql, Alpine js",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-18T08:37:40.169Z",
+                "__v": 0
+            },
+            {
+                "_id": "63c7b497bc1fe4e68469f6fc",
+                "title": "Property and Business Listing Portal",
+                "thumbnail": "dYQA7FIACOMcliC384XB.jpeg",
+                "description": "To sell any type of business and asset in the fastest, most efficient, and safe manner, banks, liquidation firms, corporates can dispose of a variety of assets being commercial and industrial as quickly as possible.\r\nThe most important point of buying or selling at auction is speed, with the majority of the work undertaken prior to the auction commencing. Using this effective method of sale to UAE and Dubai is Response Auctioneer Vision. Auction is far more than selling an asset, it is timing, and ability to build immediate trust with the buyers and sellers a relaxed friendly attitude that makes bidders more comfortable, and intimate knowledge of the product being offered and of the current market conditions and apply, a thorough understanding of the law and above all to generate the most from the buyers.",
+                "link": "responseauction.com",
+                "region": "UAE, Gulf and Australia",
+                "technology": "Php Laravel, My Sql, Alpine js",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-18T08:57:59.943Z",
+                "__v": 0
+            },
+            {
+                "_id": "64182d18685583abc80839e4",
+                "title": "JTC Education",
+                "thumbnail": "PjVqOizskGiKGxlbvDje.jpeg",
+                "description": "JTC Education is a select team of professional tutors.  Our team consists of examiners, Oxbridge graduates, and PGCE-qualified teachers. We adhere to a unique tuition methodology focussed on exam technique and academic independence.",
+                "link": "www.jtceducation.com",
+                "region": "UAE and Gulf",
+                "technology": "Laravel, Wordpress, Jquery, React Js, React Native",
+                "order": 0,
+                "status": true,
+                "date": "2023-03-20T09:53:28.887Z",
+                "__v": 0
+            },
+            {
+                "_id": "64213ff9523ce5836866f99f",
+                "title": "MAA Foundation",
+                "thumbnail": "etld1HWrJHLR36n89e6M.jpeg",
+                "description": "MAA Foundation was launched in March 2020, in response to the ever growing rise in cancer related deaths in the third world. This is the reality for thousands of cancer patients in Azad Kashmir today – and in Aliya Begum’s memory – and in the memory of all those who have lost a loved one through this debilitating disease, we aim to bring relief to those who are trapped between poverty and cancer. ",
+                "link": "maafoundation.co.uk",
+                "region": "UK and Pakistan",
+                "technology": "Php Laravel, React Js",
+                "order": 0,
+                "status": true,
+                "date": "2023-03-27T07:04:25.771Z",
+                "__v": 0
+            },
+            {
+                "_id": "642142e6a1aecbc1947d9026",
+                "title": "The Royal Game",
+                "thumbnail": "rxdG8MDDUHpvHGeR1irC.jpeg",
+                "description": "THE ROYAL GAME is a Global Bespoke Luxury Concierge Company with Headquarters in Dubai, UAE. Since 2016, the company offers high-quality, highly tailored Concierge services to High-Net-Worth Individuals and Ultra HNWI and Corporate Companies all around the world.\r\n\r\nWe organize, plan and book all your requests, from Home Holidays, Yachts, Executive Drivers, Exotic Experiences, Holiday Planning, Private Jets, Helicopter Tours, Fine Dining, Private and Corporate Events, only to mention a few, providing our clients with the true meaning of exclusivity and a red carpet experience. \r\n\r\nWe serve clients from all over the world, from Business Entrepreneurs to Celebrities who all enjoy a level of success in their own field, that’s the reason why our motto is to exceed expectations from the ordinary.\r\n\r\nWe are an International team with multicultural background and understand Luxury Lifestyle and can cater to all 24/7.",
+                "link": "www.theroyalgame.ae",
+                "region": "Uae and Gulf",
+                "technology": "Php Laravel, Wordpress",
+                "order": 0,
+                "status": true,
+                "date": "2023-03-27T07:16:54.877Z",
+                "__v": 0
+            },
+            {
+                "_id": "642146c3f1b97d3d607891c8",
+                "title": "Online TV",
+                "thumbnail": "sMFrH8UfKKJauCN4hxCr.jpeg",
+                "description": "One of my personal project where I give free access to huge database of TV live streaming channels. I Build this for fun and provide entertainment to my friends and family",
+                "link": "tv.engrtayyabali.com",
+                "region": "All over the World",
+                "technology": "Node JS, React JS",
+                "order": 0,
+                "status": true,
+                "date": "2023-03-27T07:33:23.087Z",
                 "__v": 0
             }
         ],
         "certifications": [
             {
                 "_id": "63ad3d827667d085719ee503",
-                "title": "Consequat In sint is",
-                "description": "Et magnam ut rem cons",
-                "year": "1973s",
-                "institute": "Dolores voluptas mins",
+                "title": "WordPress ",
+                "description": "Basic Web designing course",
+                "year": "2019",
+                "institute": "DigiSkills.pk",
                 "order": 0,
                 "status": true,
                 "date": "2022-12-29T07:10:58.930Z",
@@ -298,13 +389,24 @@
             },
             {
                 "_id": "63ad3d9a7667d085719ee50c",
-                "title": "Esse nulla commodi ea",
-                "description": "Ad vel quam excepteua",
-                "year": "1997a",
-                "institute": "Vel eos ducimus alia",
+                "title": "Certificate in Basic Networking ",
+                "description": "Certificate in Basic Networking ",
+                "year": "2019",
+                "institute": "Cousera",
                 "order": 0,
-                "status": false,
+                "status": true,
                 "date": "2022-12-29T07:11:22.282Z",
+                "__v": 0
+            },
+            {
+                "_id": "63cfa6a5d2347973e9634164",
+                "title": "Microsoft Office Specialist Word 2016",
+                "description": "Microsoft Office Specialist Word 2016",
+                "year": "2018",
+                "institute": "Microsoft ",
+                "order": 0,
+                "status": true,
+                "date": "2023-01-24T09:36:37.351Z",
                 "__v": 0
             }
         ]

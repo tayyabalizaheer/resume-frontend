@@ -11,6 +11,7 @@ import Home from './components/Home';
 import Resume from './components/Resume';
 import Services from './components/Services'; 
 import Portfolio from './components/Portfolio';
+import Project from './components/Project';
 import renderUpdateContent from './components/renderUpdateContent';
 import Contact from './components/Contact';
 import { api } from "./Helper";
@@ -20,10 +21,9 @@ import Layout from "./Layout";
 
 function App() {
   const cookies = new Cookies();
-  const [data, setData] = useState([]);
+  const [data, setData] = useState(Data.data);
   const [animation, setAnimation] = useState(true);
   useEffect(() => {
-    setData(Data.data);
     const getData = async () => {
       $('#updating').show();
       try {
@@ -33,10 +33,12 @@ function App() {
         console.log(response, response.code);
         if (response.status === 200) {
           setData(dataJson.data);
-          $('#updating').hide();
+          var appVersion = cookies.get('appVersion');
+          $('#updating').html("v" + appVersion ? appVersion:'');
         } 
       } catch (error) {
-        console.error(error); // You might send an exception to your error tracker like AppSignal
+        console.error(error); 
+        // You might send an exception to your error tracker like AppSignal
         $('#updating').html('cached data');
       }
     };
@@ -54,7 +56,6 @@ function App() {
   $(function () {
     const location = window.location;
     var currentPage = location.pathname == '/' ? '#home' : location.pathname;
-    currentPage = currentPage;
     if (animation) {
       renderPage(currentPage);
       setAnimation(false);
@@ -63,7 +64,7 @@ function App() {
       $(window).scrollTop(0);
       var nextPage = $(this).attr('href');
       nextPage = (nextPage == '/') ? '#home' : nextPage
-      if (nextPage != currentPage) {
+      if (nextPage !== currentPage) {
         renderPage(nextPage);
         currentPage = nextPage;
       }
@@ -71,7 +72,6 @@ function App() {
     function renderPage(page) {
       $('#nav > li').removeClass('active');
       $(`a[href='${page}']`).parent().attr('class', 'active');
-      console.log(page, $(`a[href='${page}']`));
     }
   });
   $(window).on('scroll',function () {
@@ -95,11 +95,12 @@ function App() {
       <Router>
         <Layout data={data}>
           <Routes>
-            <Route exact path="/" element={<Home data={data} />} />
-            <Route exact path="/resume" element={<Resume data={data} />} />
-            <Route exact path="/services" element={<Services data={data} />} />
-            <Route exact path="/portfolio" element={<Portfolio data={data} />} />
-            <Route exact path="/contact" element={<Contact data={data} />} />
+            <Route path="/" element={<Home data={data} />} />
+            <Route path="/resume" element={<Resume data={data} />} />
+            <Route path="/services" element={<Services data={data} />} />
+            <Route path="/portfolio" element={<Portfolio data={data} />} />
+            <Route path="/project/:id" element={<Project />} />
+            <Route path="/contact" element={<Contact data={data} />} />
           </Routes>
         </Layout>
       </Router>
